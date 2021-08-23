@@ -1,0 +1,27 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinbbbb/jest-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinbbbb/jest-test/issues"
+  },
+  "homepage": "https://github.com/xinbbbb/jest-test#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "jest": "24.8.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}

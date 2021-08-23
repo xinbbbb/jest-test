@@ -1,0 +1,15 @@
+{
+  "presets": [
+    ["@babel/preset-env", {
+      "targets": {
+        "node": "current"
+      }
+    }]
+  ]
+}
+
+// npm run jest
+// jest (babel-jest)
+// babel-core
+// .babelrc config
+// transform ES module to commonjs
